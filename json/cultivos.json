@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "cultivo":"cebolla",
+        "des":"Las cebollas necesitan suelos buenos y ricos para desarrollarse. Prefieren los suelos franco arenosos, la turba y el limo y rechazan los suelos arcillosos y arenosos. A las cebollas les gusta la abundancia de potasio y de fósforo pero no el exceso de nitrógeno.",
+        "densidad": 30
+    },{
+        "id": 1,
+        "cultivo":"papa",
+        "des":"Para el cultivo de la papa, la mayor limitante son las temperaturas, ya que si son inferiores a 10 °C y superiores a 30 °C. La papa puede crecer en la mayoría de los suelos, aunque son recomendables suelos con poca resistencia al crecimiento de los tubérculos. Los mejores suelos son los francos, franco-arenosos, franco-limosos y franco-arcillosos, con buen drenaje y ventilación, que además facilitan la cosecha.",
+        "densidad": 22
+    },{
+        "id": 3,
+        "cultivo":"ajo",
+        "des":"El ajo se puede sembrar en surcos o en camas, con diferentes anchuras; lo que dependerá de la población por hectárea y el método de riego que se empleará. En superficies pequeñas que fluctúan entre 1 y 3 ha, la siembra generalmente se efectúa de forma manual, donde debe contemplarse la posición de las semillas. El ajo es una planta que necesita temperaturas frescas y días cortos durante las primeras etapas de su ciclo vegetativo, para favorecer el desarrollo de las hojas.",
+        "densidad": 19
+    }
+]
